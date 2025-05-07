@@ -12,6 +12,8 @@
 
 #include "dlio/dlio.h"
 
+#include <boost/foreach.hpp>
+
 class dlio::MapNode {
 
 public:
